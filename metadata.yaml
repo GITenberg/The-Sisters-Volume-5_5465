@@ -1,5 +1,5 @@
 _repo: The-Sisters-Volume-5_5465
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Bell, Clara
@@ -35,5 +35,6 @@ subjects:
 - !lcc 'PT'
 - !lcsh 'German fiction -- Translations into English'
 - !lcsh 'Egypt -- History -- 332-30 B.C. -- Fiction'
+- GITenberg
 title: The Sisters — Volume 5
 url: http://www.gutenberg.org/ebooks/5465
